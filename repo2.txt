@@ -1,0 +1,8 @@
+A.
+B.
+C.
+Open your terminal or command prompt and navigate to your project directory.
+Stage your changes:
+bash
+git add .
+(Use git add <filename> to stage a specific file instead).
